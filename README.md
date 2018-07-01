@@ -1,4 +1,4 @@
-# LastWave
+## LastWave
 Graph your music listening history!
 ![An Example Graph](http://i.imgur.com/jMQoqg6.png)
 
